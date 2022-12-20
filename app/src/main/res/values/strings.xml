@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Mascotas502gt </string>
+    <string name="title_activity_macadores">Macadores</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+    <string-array name="genero">
+        <item>Hembra</item>
+        <item>Macho</item>
+    </string-array>
+
+    <string-array name="animallist">
+        <item>Perro</item>
+        <item>Gato</item>
+        <item>Reptil</item>
+        <item>Pàjaros</item>
+        <item>otro</item>
+    </string-array>
+
+</resources>
